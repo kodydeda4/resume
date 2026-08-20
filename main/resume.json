@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "Kody Deda",
+    "label": "iOS Developer",
+    "email": "kodydeda4@gmail.com",
+    "phone": "910-398-3908",
+    "url": "https://kodydeda.vercel.app/",
+    "summary": "Senior iOS Developer with 5+ years of experience building polished, user-facing features for iPhone and iPad apps. Skilled in Swift, SwiftUI, UIKit, MVVM, and The Composable Architecture (TCA).",
+    "location": {
+      "city": "Wilmington",
+      "region": "NC"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "kodydeda4",
+        "url": "https://linkedin.com/in/kodydeda4"
+      },
+      {
+        "network": "GitHub",
+        "username": "kodydeda4",
+        "url": "https://github.com/kodydeda4"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ForesightCares",
+      "position": "Senior iOS Developer",
+      "location": "Remote",
+      "startDate": "May 2025",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Led iOS development at a healthcare startup, building two iPad apps (admin and patient-facing) end-to-end in SwiftUI and The Composable Architecture.",
+        "Architected a modular codebase of 60+ Swift packages and 150+ modules with Swift Package Manager for fast incremental builds, isolated testing, and cross-app code sharing.",
+        "Built a testable, dependency-injected data layer over an AWS AppSync (GraphQL) backend.",
+        "Implemented subscription billing with RevenueCat (onboarding, paywall, and upgrade flows) and integrated Amplitude for product analytics.",
+        "Created a reusable design system optimized for older adults, with large-scale typography and accessible components.",
+        "Integrated the company's internal AI camera feature into the app, owning the client-side integration and data flow."
+      ]
+    },
+    {
+      "name": "PocketRadar",
+      "position": "iOS Developer",
+      "location": "Remote",
+      "startDate": "May 2022",
+      "endDate": "April 2025",
+      "summary": "",
+      "highlights": [
+        "Shipped features for the companion app to a Bluetooth baseball radar, spanning player management, speed tracking, and onboarding, in SwiftUI, UIKit, and MVVM.",
+        "Built video playback with real-time speed overlays using AVFoundation, packaged as a reusable internal Swift package for camera and video.",
+        "Built a scalable REST API layer with multi-environment support to manage player data.",
+        "Implemented a local SQLite persistence layer with GRDB, built for SwiftUI previews and unit testing.",
+        "Centralized camera, microphone, Bluetooth, and photo-library permissions behind a single manager."
+      ]
+    },
+    {
+      "name": "Dealerware",
+      "position": "iOS Developer",
+      "location": "Remote",
+      "startDate": "July 2021",
+      "endDate": "March 2022",
+      "summary": "",
+      "highlights": [
+        "Developed user-facing features for an automotive iPhone app using UIKit and MVC.",
+        "Helped write bug fixes and analyze crash reports as well as diagnose issues in the app.",
+        "Actively participated in Agile development: sprint planning, daily standups, retrospectives, and code reviews.",
+        "Managed sprint tracking and documentation using JIRA, Confluence, Slack, Github and other tools.",
+        "Utilized CI/CD pipelines with GitHub, Fastlane, and CircleCI to automate builds and streamline delivery."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of North Carolina Wilmington",
+      "area": "Bachelor's of Computer Science",
+      "studyType": "Degree",
+      "location": "Wilmington, NC",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+"skills": [
+  {
+    "name": "Programming Languages & Frameworks",
+    "keywords": [
+      "Swift",
+      "SwiftUI",
+      "UIKit",
+      "Combine",
+      "Swift Concurrency",
+      "MVVM",
+      "The Composable Architecture (TCA)",
+      "AVFoundation"
+    ]
+  },
+  {
+    "name": "Development Tools & Ecosystem",
+    "keywords": [
+      "Xcode",
+      "Git",
+      "Swift Package Manager",
+      "App Store Connect",
+      "StoreKit",
+      "RevenueCat",
+      "AWS AppSync",
+      "Amplitude Analytics",
+      "Jira",
+      "Slack"
+    ]
+  }
+]
+}

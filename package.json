@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "node render.mjs",
+    "pdf": "node render.mjs && \"/Applications/Brave Browser.app/Contents/MacOS/Brave Browser\" --headless --disable-gpu --no-pdf-header-footer --print-to-pdf=main/resume-kody-deda.pdf \"file://$PWD/resume.html\""
+  },
+  "dependencies": {
+    "jsonresume-theme-government-standard": "^0.2.4"
+  }
+}
